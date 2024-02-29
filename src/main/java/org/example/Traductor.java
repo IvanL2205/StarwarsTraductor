@@ -43,7 +43,7 @@ public class Traductor {
                     }
                     break;
                 default:
-                    System.out.println("No es posible realizar la traducción, revise el texto ingresado...");
+                    System.out.println("No es posible realizar la traducción revise el texto ingresado...");
             }
         } while (rep());
 
