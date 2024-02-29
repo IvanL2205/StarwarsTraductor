@@ -47,6 +47,7 @@ public enum AbcAurEsp {
         AUREBESH_A_ESPANOL.put("leth", "l");
         AUREBESH_A_ESPANOL.put("merm", "m");
         AUREBESH_A_ESPANOL.put("nern", "n");
+        AUREBESH_A_ESPANOL.put("eñe", "ñ");
         AUREBESH_A_ESPANOL.put("osk", "o");
         AUREBESH_A_ESPANOL.put("peth", "p");
         AUREBESH_A_ESPANOL.put("qek", "q");
@@ -87,6 +88,7 @@ public enum AbcAurEsp {
         ESPANOL_A_AUREBESH.put('l', "leth");
         ESPANOL_A_AUREBESH.put('m', "merm");
         ESPANOL_A_AUREBESH.put('n', "nern");
+        ESPANOL_A_AUREBESH.put('ñ', "eñe");
         ESPANOL_A_AUREBESH.put('o', "osk");
         ESPANOL_A_AUREBESH.put('p', "peth");
         ESPANOL_A_AUREBESH.put('q', "qek");
