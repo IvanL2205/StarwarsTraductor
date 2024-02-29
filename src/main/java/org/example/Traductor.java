@@ -15,10 +15,10 @@ public class Traductor {
             System.out.println("1. Aurebesh a Español");
             System.out.println("2. Español a Aurebesh");
 
-            Validaciones.validacionOpcion(scanner);
+            Validaciones.validarOpcion(scanner);
 
             opcion = scanner.nextInt();
-            opcion = Validaciones.validacionNum(opcion);
+            opcion = Validaciones.validarNum(opcion);
 
 
             switch (opcion) {
