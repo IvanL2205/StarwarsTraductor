@@ -13,6 +13,7 @@ public class Validaciones {
         return true;
     }
 
+
     public static int validarNum(int opcion) {
         Scanner scanner = new Scanner(System.in);
         if (opcion != 1 && opcion != 2){
